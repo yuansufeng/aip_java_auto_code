@@ -8,7 +8,6 @@
             <class name="com.lemon.testcases.LoginTest"/>
             <class name="com.lemon.testcases.GetUserInfoTest"/>
             <class name="com.lemon.testcases.RechargeTest"/>
-            <class name="com.lemon.testcases.AddLoanTest"/>
         </classes>
     </test>
 </suite>
